@@ -2,7 +2,7 @@
 
 Simple Vite + React + TypeScript Starter. It contains:
 - [x] React 18 (v18.3.1)
-- [x] Vite 5 (v5.2.10)
+- [x] Vite 5 (v5.3.3)
 - [x] TypeScript 5 (v5.4.5)
 - [x] ES6 linting with continuous linting on file change
 - [x] Prettier
